@@ -1,0 +1,17 @@
+.stats {
+  background-color: gray;
+  font-size: large;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: grey;
+}
+
+h3 {
+  font-style: italic;
+}
+
+li {
+  color: rgb(11, 53, 11);
+}
