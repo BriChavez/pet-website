@@ -11,3 +11,20 @@
   background-color: white;
   color: black;
 }
+
+.clickable:hover {
+  color: blueviolet;
+  padding: 30px;
+  border: 30px solid green;
+}
+
+.click {
+  color: yellow;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 3px solid black;
+  background-color: aqua;
+  }
+
+ 
+

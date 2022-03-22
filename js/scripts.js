@@ -8,4 +8,9 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("white-background");
   });
+
+  $("#clickH").click(function() {
+    $(".hi").toggleClass("click");
+  });
 });
+
